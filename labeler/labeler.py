@@ -204,6 +204,7 @@ if __name__ == "__main__":
     #python labeler.py ./../data/WayFAST/imgs ./../data/WayFAST/labels.csv --filetype tif --annos 1 
     # CaT
     #python labeler.py ./../data/CAT/train/imgs ./../data/CAT/train/labels.csv --filetype png --annos 1
+    #python labeler.py ./../data/CAT/test/imgs ./../data/CAT/test/labels.csv --filetype png --annos 1
     parser = argparse.ArgumentParser()
     parser.add_argument("directory", type=str)
     parser.add_argument("csv", type=str)

@@ -1,4 +1,4 @@
-data/CAT/test/*
+data/CAT/test/imgs/*
 data/CAT/train/imgs/*
 data/CAT/train/imgs/*
 data/WayFAST/imgs/*
